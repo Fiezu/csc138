@@ -1,0 +1,12 @@
+Name                   :Fiezu
+Phone no.              :07493410085
+Durian buns            :6
+Red Bean buns          :0
+Method                 :Cash on Delivery
+
+Name                   :Aqil
+Phone no.              :07493410085
+Durian buns            :6
+Red Bean buns          :12
+Method                 :Delivery
+
